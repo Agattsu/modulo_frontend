@@ -5,7 +5,8 @@
     "javascript",
     "javascriptreact",
     "typescript",
-    "vue"
+    "vue",
+    "html"
   ],
   "vetur.experimental.templateInterpolationService": true
 }
