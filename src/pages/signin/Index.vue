@@ -7,8 +7,8 @@
     color="grey"
     class="absolute-left q-ma-lg"></q-icon>
     <q-img class="logo q-mb-lg" src='../../../src/assets/modelofrontend-logo.svg' ></q-img>
-    <q-input filled v-model="text" label='E-mail' class='full-width q-mb-md' />
-    <q-input filled v-model="text" label='Password' type="password" class='full-width' />
+    <q-input filled v-model="email" label='E-mail' class='full-width q-mb-md' />
+    <q-input filled v-model="password" label='Password' type="password" class='full-width' />
 
     <div class= "column items-end full-width">
     <a class="q-mt-md link" href="">Forgot password?</a>
