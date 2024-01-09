@@ -61,7 +61,7 @@ export default {
 .sign-in-button{
   height: 44px;
   border-radius: 5px;
-  background-color: #3797EF;
+  background-color: $instablue;
 }
 .facebook-icon{
   height: 17px;

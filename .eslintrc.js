@@ -52,6 +52,7 @@ module.exports = {
     "no-nested-ternary": "off",
     "max-classes-per-file": "off",
     'linebreak-style': 'off',
+    
 
     "import/first": "off",
     "import/named": "error",
@@ -71,3 +72,4 @@ module.exports = {
     "no-debugger": process.env.NODE_ENV === "production" ? "error" : "off",
   },
 };
+
