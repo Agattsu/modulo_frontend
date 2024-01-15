@@ -18,7 +18,7 @@ export default {
 <style lang="scss" scoped>
 .logo{
   width: 115px;
-  height: 30px;
+  height: 34px;
 }
 .camera{
   width: 29px;
